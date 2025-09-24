@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/acd61be0-336d-4681-b4b2-7afcf8be9a8b" width="650" alt="Microsoft Active Directory Logo"/>
+<img src="https://github.com/user-attachments/assets/6487e128-33dc-4c43-a7b0-cdf2f78233ab" width="650" alt="Microsoft Active Directory Logo"/>
 </p>
 
 
