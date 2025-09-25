@@ -180,7 +180,7 @@ This project outlines the installation and set up of Windows Server 2016 along w
 
 ### Choose `Select a Server from the server pool` then click Next
 <p>
-<img src="https://github.com/user-attachments/assets/a1c39903-a270-4518-9dc0-8e7db91bfed" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/3dc18b82-24fb-41a4-9ae5-92388a9a81f4" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
